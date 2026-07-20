@@ -1,0 +1,11 @@
+drug_id,drug_name,category,form,standard_unit_price
+D001,Paracetamol,analgesic,tablet,50
+D002,Artemether-Lumefantrine,antimalarial,tablet,800
+D003,Amoxicillin,antibiotic,capsule,150
+D004,Ciprofloxacin,antibiotic,tablet,200
+D005,Ibuprofen,analgesic,tablet,60
+D006,Metformin,antidiabetic,tablet,100
+D007,Amlodipine,antihypertensive,tablet,120
+D008,ORS Sachet,rehydration,sachet,50
+D009,Vitamin C,supplement,tablet,30
+D010,Chloroquine Syrup,antimalarial,syrup,600

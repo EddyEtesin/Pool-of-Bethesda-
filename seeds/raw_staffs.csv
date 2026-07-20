@@ -1,0 +1,7 @@
+staff_id,staff_name,role,specialty,date_joined
+S001,Dr. Adaeze Nwosu,doctor,general,2021-03-15
+S002,Dr. Tunde Bakare,doctor,pediatrics,2022-06-01
+S003,Nurse Chioma Eze,nurse,general,2020-11-10
+S004,Nurse Femi Ojo,nurse,general,2023-01-20
+S005,Pharm. Ngozi Umeh,pharmacist,general,2021-09-05
+S006,Lab Tech. Musa Ibrahim,lab_technician,general,2022-02-14

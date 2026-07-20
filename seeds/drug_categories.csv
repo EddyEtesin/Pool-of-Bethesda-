@@ -1,0 +1,9 @@
+diagnosis_id,diagnosis_name,category
+DX001,Malaria,infectious
+DX002,Typhoid,infectious
+DX003,Common Cold,respiratory
+DX004,Hypertension,chronic
+DX005,Diabetes,chronic
+DX006,UTI,infectious
+DX007,Diarrhea,gastrointestinal
+DX008,Pneumonia,respiratory
